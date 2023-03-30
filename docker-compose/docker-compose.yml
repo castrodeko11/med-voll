@@ -1,6 +1,6 @@
 version: '3.3'
 services:
-  db:
+  db-med-voll:
     image: mysql:8.0
     restart: always
     environment:

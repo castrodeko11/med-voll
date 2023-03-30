@@ -1,5 +1,5 @@
 <h1 align="center">
-<img alt="Aircnc" title="#delicinha" src="https://cdn-icons-png.flaticon.com/512/920/920988.png" width="250px" />
+<img alt="Aircnc" title="#delicinha" src="https://cdn-icons-png.flaticon.com/512/920/920988.png" width="150px" />
 </h1>
 
 <h4 align="center">
