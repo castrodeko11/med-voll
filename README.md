@@ -1,5 +1,5 @@
 <h1 align="center">
-<img alt="Aircnc" title="#delicinha" src="https://cdn-icons-png.flaticon.com/512/920/920988.png" width="150px" />
+<img alt="Aircnc" title="#Doctor" src="https://img.freepik.com/premium-vector/icon-doctor-emergency-doctor-medical-healthcare-concept-vector-illustration-flat-design-style-avatar-medical-worker_153097-1307.jpg?w=2000" width="150px" />
 </h1>
 
 <h4 align="center">
