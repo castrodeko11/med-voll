@@ -21,7 +21,7 @@ public class AgendaDeConsultas {
     }
 
 
-    public void agendar(DadosAgendamentoConsulta dados) throws Exception {
+    public void agendar(DadosAgendamentoConsulta dados) {
         var paciente = pacienteRepository.findById(dados.idPaciente()).orElseThrow(
                 () -> new ValidacaoExcepton("ID do paciente informado não existe")
         );
