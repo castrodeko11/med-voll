@@ -1,12 +1,16 @@
 package med.voll.api.domain.consulta.validacoes;
 
+import lombok.RequiredArgsConstructor;
 import med.voll.api.domain.ValidacaoExcepton;
 import med.voll.api.domain.consulta.DadosAgendamentoConsulta;
 import med.voll.api.domain.medico.MedicoRepository;
+import org.springframework.stereotype.Component;
 
-public class ValidadorMedicoAtivo {
+@Component
+@RequiredArgsConstructor
+public class ValidadorMedicoAtivo implements ValidadorAgendamentosDeConsultas {
 
-    private MedicoRepository medicoRepository;
+    private final MedicoRepository medicoRepository;
 
     public void validar(DadosAgendamentoConsulta dadosAgendamentoConsulta) {
 
